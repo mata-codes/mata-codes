@@ -9,33 +9,33 @@ Im an enthusiast about building apps, websites, experimenting with AI, linux, se
 
 ### frontend
 -  -[x] **Astro**: ssg
--  -[] **React**:
--  -[] **Angular**:
--  -[] **Sli.dev**:
+-  -[ ] **React**:
+-  -[ ] **Angular**:
+-  -[ ] **Sli.dev**:
   
 ### Backend 
-- -[] **asp.net**
-- -[] **node.js**
-- -[] **flask**
-- -[] **FastAPI**
+- -[ ] **asp.net**
+- -[ ] **node.js**
+- -[ ] **flask**
+- -[ ] **FastAPI**
 ### Database
-- -[] **MySQL**
-- -[] **PostgreSQL**
-- -[] **SQLite**
-- -[] **MongoDB**
+- -[ ] **MySQL**
+- -[ ] **PostgreSQL**
+- -[ ] **SQLite**
+- -[ ] **MongoDB**
 ### DevOps
-- -[] **Docker**
-- -[] **kubernetes**
+- -[ ] **Docker**
+- -[ ] **kubernetes**
 ### AI/ML/DA
-- -[] **Pandas**
-- -[] **Numpy**
-- -[] **Matplotlib**
-- -[] **TensorFlow**
-- -[] **oLlama**
+- -[ ] **Pandas**
+- -[ ] **Numpy**
+- -[ ] **Matplotlib**
+- -[ ] **TensorFlow**
+- -[ ] **oLlama**
 ### sysadmin
-- -[] **Bash shell**
-- -[] **linux**
-- -[] **nix/nixos**
+- -[ ] **Bash shell**
+- -[ ] **linux**
+- -[ ] **nix/nixos**
 ---
 - 💬 Ask me about **linux, ssg on astro, React...or anything [here](https://github.com/{mata-codes}/{mata-codes}/issues)**
 
