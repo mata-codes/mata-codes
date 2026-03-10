@@ -9,9 +9,9 @@ Im an enthusiast about building apps, websites, experimenting with AI, linux, se
 
 ### frontend
 -  -[x] **Astro**: ssg
--  []**React**:
--  []**Angular**:
--  []**Sli.dev**:
+-  -[]**React**:
+-  -[]**Angular**:
+-  -[]**Sli.dev**:
   
 ### Backend 
 - [] **asp.net**
