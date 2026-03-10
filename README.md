@@ -8,7 +8,7 @@ Im an enthusiast about building apps, websites, experimenting with AI, linux, se
 ## skills & Tech Stack
 
 ### frontend
--  [x]**Astro**: ssg
+-  -[x] **Astro**: ssg
 -  []**React**:
 -  []**Angular**:
 -  []**Sli.dev**:
