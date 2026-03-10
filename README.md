@@ -1,9 +1,41 @@
-# mata-codes | Software engineer student | math enthusiast
+# welcome to mata-codes hub
 ---
-## welcome and hello there
+## Software engineer student | math enthusiast
+---
+Im an enthusiast about building apps, websites, experimenting with AI, linux, secure development and their usage made for solving real world problems. 
 
 ---
-- 🌱 I’m currently learning 
+## skills & Tech Stack
+
+### frontend
+-  [x]**Astro**: ssg
+-  []**React**:
+-  []**Angular**:
+-  []**Sli.dev**:
+  
+### Backend 
+- [] **asp.net**
+- [] **node.js**
+- [] **flask**
+- [] **FastAPI**
+### Database
+- [] **MySQL**
+- [] **PostgreSQL**
+- [] **SQLite**
+- [] **MongoDB**
+### DevOps
+- [] **Docker**
+- [] **kubernetes**
+### AI/ML/DA
+- [] **Pandas**
+- [] **Numpy**
+- [] **Matplotlib**
+- [] **TensorFlow**
+- [] **oLlama**
+### sysadmin
+- [] **Bash shell**
+- [] **linux**
+- [] **nix/nixos**
 - 💬 Ask me about **linux, ssg on astro, React...or anything [here](https://github.com/{mata-codes}/{mata-codes}/issues)**
 
 <div align="center">
