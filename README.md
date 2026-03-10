@@ -1,5 +1,7 @@
-# jory-1 | Software engineer student
-## Hello there! <br>
+# mata-codes | Software engineer student | math enthusiast
+---
+## welcome and hello there
+
 ---
 - 🌱 I’m currently learning 
 - 💬 Ask me about **linux, ssg on astro, React...or anything [here](https://github.com/{jory-1}/{jory-1}/issues)**
