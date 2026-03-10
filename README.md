@@ -4,7 +4,7 @@
 
 ---
 - 🌱 I’m currently learning 
-- 💬 Ask me about **linux, ssg on astro, React...or anything [here](https://github.com/{jory-1}/{jory-1}/issues)**
+- 💬 Ask me about **linux, ssg on astro, React...or anything [here](https://github.com/{mata-codes}/{mata-codes}/issues)**
 
 <div align="center">
   <a href="matajorysniel@gmail.com">
