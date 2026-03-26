@@ -2,8 +2,10 @@
 ---
 ## Software engineer student | math enthusiast
 ---
-Im an enthusiast about building apps, websites, experimenting with AI, linux, secure development and their usage made for solving real world problems. 
+Im an enthusiast about building apps, websites, experimenting with AI, linux, secure development and their usage made for solving real world problems. <br>
+### roadmap card
 [![roadmap.sh](https://roadmap.sh/card/tall/68d2ba5d0cfd8bc6c30449da?variant=dark)](https://roadmap.sh)
+<br>
 ---
 ## skills & Tech Stack
 
